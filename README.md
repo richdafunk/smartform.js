@@ -1,8 +1,8 @@
 # smartform.js
 Smart touch enabled structured forms. Configured by attributes.
 
-# examples
+## examples
 https://smartdox.net/SmartformJS-Examples
 
-# documentation
+## documentation
 https://smartdox.net/SmartformJS
